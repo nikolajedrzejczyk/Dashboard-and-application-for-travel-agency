@@ -13,4 +13,4 @@ Czyszczenie danych przeprowadzono w aplikacji **Tableau Prep**, a wizualizacje i
 
 Dodatkowo stworzono prostą aplikację w **Python Dash**, składającą się z dwóch wizualizacji.  
 
-Projekt wykonany w ramach studiów. [Czerwiec 2025]  
+Projekt wykonany we współpracy w ramach studiów. [Czerwiec 2025]  
